@@ -1,4 +1,4 @@
-# <img src="/app/icon.png" height="24" alt="Logo" style="vertical-align:middle; margin-right: 8px;" /> Nabeel's Portfolio
+# <img src="/app/icon.png" height="24" alt="Logo" style="vertical-align:middle; margin-right: 8px;" /> Emediong's Portfolio
 
 Welcome to my personal portfolio! This project showcases my web development skills, featuring a custom developer theme that reflects my dedication to unique, innovative solutions. Dive in to explore my projects and the tools I use to bring ideas to life.
 
@@ -25,7 +25,7 @@ Built with the latest technologies to ensure performance, responsiveness, and a 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/NabsCodes/nabeels-portfolio.git
+   git clone https://github.com/emediongudoh/emediongs-portfolio.git
    ```
 
 2. **Install dependencies**:
@@ -52,4 +52,4 @@ This portfolio is designed to highlight my work, skills, and dedication to quali
 
 This portfolio is my original work, and I kindly ask that you respect the effort that went into its creation. Feel free to use the code as inspiration or reference, but please give proper credit if you use any part of it directly.
 
-Made with 💻 and a lot of ☕ by Nabeel Hassan
+Made with 💻 and a lot of ☕ by Emediong Udoh

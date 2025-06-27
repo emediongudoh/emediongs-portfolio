@@ -77,10 +77,10 @@ export const ContactFormEmail = ({
               <Text className="text-center text-sm text-gray-400">
                 This email was sent from your contact form on{" "}
                 <Link
-                  href="https://nabeelhassan.dev"
+                  href="https://emediongudoh.vercel.app"
                   className="text-emerald-600 underline"
                 >
-                  nabeelhassan.dev
+                  emediongudoh.vercel.app
                 </Link>
               </Text>
             </Section>
